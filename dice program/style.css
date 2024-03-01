@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana;
+}
+
+#settings {
+    text-align: center;
+    margin: 10px 0;
+}
+
+#rollBtn {
+    padding: 5px;
+    font-size: 1.2rem;
+    margin: 8px 0;
+}
+
+#diceContainer { 
+    text-align: center;
+}
+
+.dice {
+    padding: 2px;
+}
